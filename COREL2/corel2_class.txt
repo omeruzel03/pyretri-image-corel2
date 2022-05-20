@@ -1,0 +1,10 @@
+1	eat_drinks	100 Adet	275000
+2	art_dino	100 Adet	581000
+3	art_mural	100 Adet	554000
+4	obj_bonsai	100 Adet	353000
+5	obj_bus		100 Adet	581000
+5	obj_car		100 Adet	354000
+6	obj_cards	100 Adet	425000
+8	obj_flags	100 Adet	461000
+9	wl_cat		100 Adet	326000
+10	wl_horse	100 Adet	113000
